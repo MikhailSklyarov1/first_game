@@ -49,6 +49,8 @@ int main()
 		if (Keyboard::isKeyPressed(Keyboard::Left)) x -= 5;
 		if (Keyboard::isKeyPressed(Keyboard::Up)) y -= 5;
 		if (Keyboard::isKeyPressed(Keyboard::Down)) y += 5;
+		int r = 5;
+		int d = 4;
 
 
 		
