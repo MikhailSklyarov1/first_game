@@ -50,10 +50,6 @@ int main()
 		if (Keyboard::isKeyPressed(Keyboard::Up)) y -= 5;
 		if (Keyboard::isKeyPressed(Keyboard::Down)) y += 5;
 
-		if (1)
-		{
-			int t = 4;
-		}
 
 		
 		sPers.setPosition(x, y);
