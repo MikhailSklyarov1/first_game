@@ -15,6 +15,11 @@
 #include "windows.h"
 
 
+struct point
+{
+	int x;
+	int y;
+};
 
 
 
